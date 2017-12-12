@@ -2,7 +2,7 @@
 layout: page
 title: about
 ---
-description: Benjamin Harvey is...
+description: Hi, ...
 
 #### <a name="currentposition"></a>current position
 {Hello World}
