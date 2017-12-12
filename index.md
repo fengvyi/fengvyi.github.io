@@ -1,7 +1,7 @@
 ---
 layout: frontpage
-title: ZF Song
-description: Benjamin Harvey is an Adjunct Professor at The George Washington University. He teaches a Data Analytis Introduction and Practicum course.
+title: Zefeng Song
+description: Zefeng Song is a graduate student at The George Washington University majors in Computer Science.
 keywords: statistics, data analytics
 ---
 
